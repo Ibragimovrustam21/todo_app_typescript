@@ -1,15 +1,18 @@
-.px1{
+.px1 {
   padding: 0 10px;
 }
-.card-content{
+
+.card-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.material-icons{
+
+.material-icons {
   cursor: pointer;
   margin: 0 5px;
 }
-.linethrough{
+
+.linethrough {
   text-decoration: line-through;
 }

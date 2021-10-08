@@ -1,6 +1,6 @@
 export const About: React.FC = () => {
   return (
-    <div>
+    <div className='container'>
       <h3>About Page</h3>
       <hr/>
       <p>
