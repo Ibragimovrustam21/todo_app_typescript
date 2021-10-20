@@ -17,7 +17,6 @@ export const FormBlock: React.FC<ITodoFormBlock> = ({ onAdd, Etitle, editFN }) =
         Etitle.id !== 0 ? editFN(title, Etitle.id) : onAdd(title), 
         setTitle('')
       )
-      
     }
   }
 
